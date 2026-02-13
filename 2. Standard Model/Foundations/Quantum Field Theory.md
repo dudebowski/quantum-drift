@@ -69,7 +69,7 @@ Everything else — cross sections, decay rates, particle masses, mixing angles 
 
 ## Connections
 
--[[Standard model of particle physics]]] — QFT as the foundational framework
+- [[Standard model of particle physics]] — QFT as the foundational framework
 - [[Gauge Symmetry]] — determines the interactions in the QFT
 - [[The Lagrangian]] — defines the specific QFT of the Standard Model
 - [[Quantum mechanics|Quantum Mechanics]] — QFT extends QM to relativistic, variable-particle-number settings

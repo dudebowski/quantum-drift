@@ -27,3 +27,12 @@ Quantum field theory (QFT) of gravity and more general quantum gravity ideas ent
 
 - Perturbative “QFT of gravity” treats gravity as a spin‑2 field on a fixed background; it is useful as an effective field theory at low energies but non‑renormalizable in the UV, so it needs completion.
 - Full quantum gravity approaches (string theory, loop quantum gravity, etc.) aim to be UV‑complete and background‑independent, then recover both GR and QFT in curved spacetime as low‑energy limits; cosmology is one of the main arenas where those limits and potential corrections can be confronted with data.
+
+## Connections
+
+- [[FLRW Metric]] — the curved spacetime background for QFT in cosmology
+- [[Cosmic Inflation]] — primordial fluctuations from QFT on curved spacetime
+- [[Holographic universe]] — holographic approaches to quantum gravity
+- [[Extending  ΛCDM]] — quantum-gravity programmes extending cosmology
+- [[Beyond ΛCDM]] — observational motivations for quantum gravity in cosmology
+- [[2. Standard Model/Open Questions/Quantum Gravity|Quantum Gravity (Standard Model)]] — the SM perspective on missing quantum gravity

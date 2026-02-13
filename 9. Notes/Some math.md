@@ -1,6 +1,6 @@
 # Do the math
 
-The core mathematical backbone of quantum physics is **linear algebra**, functional analysis, tensors, Hilbert spaces, and group/Lie algebra theory.
+The core mathematical backbone of quantum physics is **linear algebra**, functional analysis, [[Tensors|tensors]], Hilbert spaces, and group/Lie algebra theory.
 
 ## Quantum physics: main mathematics
 
@@ -40,7 +40,7 @@ At a high level, the mathematical backbone of cosmology is differential geometry
 
 ### Geometry of spacetime
 
-- Cosmology starts from **general relativity**, which models spacetime as a 4‑dimensional Lorentzian manifold with curvature described by Riemannian geometry and tensors.
+- Cosmology starts from **general relativity**, which models spacetime as a 4‑dimensional Lorentzian manifold with curvature described by Riemannian geometry and [[Tensors|tensors]].
 - The standard large‑scale models use the **Friedmann–Lemaître–Robertson–Walker (FLRW)** metric, leading to the Friedmann equations that relate expansion rate, curvature, and energy content.
 
 ### ΛCDM and dark components
@@ -62,3 +62,12 @@ At a high level, the mathematical backbone of cosmology is differential geometry
 
 - Connecting theory to data (CMB, supernovae, galaxy surveys) relies on statistics and Bayesian inference, fitting the parameters of the ΛCDM or extended models.
 - This uses likelihood functions built from the theoretical power spectra and distance–redshift relations derived from the FRW and perturbation equations.
+
+## Connections
+
+- [[Tensors]] — tensor mathematics
+- [[Spaces and fields]] — manifolds, metrics, and bundles
+- [[Quantum mechanics]] — the physics these mathematical tools serve
+- [[Quantum Field Theory]] — the QFT framework built on these tools
+- [[FLRW Metric]] — the specific metric for cosmology
+- [[Friedmann Equations]] — the dynamical equations using this mathematics

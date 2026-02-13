@@ -70,7 +70,11 @@ The Standard Model gives no reason for:
 
 ## The cosmological constant (fine-tuning) problem
 
-Related to the hierarchy problem: the observed dark energy density $\rho_\Lambda \sim 10^{-47}$ GeV$^4$ is ~$10^{120}$ times smaller than the QFT vacuum energy estimate. See [[Nature of Dark Energy]]. This is often called the **worst fine-tuning p[[Standard model of particle physics]][2. Standard model of particle physics]] — naturalness puzzles as open issues
+Related to the hierarchy problem: the observed dark energy density $\rho_\Lambda \sim 10^{-47}$ GeV$^4$ is ~$10^{120}$ times smaller than the QFT vacuum energy estimate. See [[Nature of Dark Energy]]. This is often called the **worst fine-tuning problem in physics**.
+
+## Connections
+
+- [[Standard model of particle physics]] — naturalness puzzles as open issues
 - [[Higgs Parameters]] — the Higgs mass and the electroweak scale
 - [[Higgs Mechanism]] — the electroweak symmetry breaking at the centre of the hierarchy
 - [[Fermion Masses]] — the unexplained mass spectrum

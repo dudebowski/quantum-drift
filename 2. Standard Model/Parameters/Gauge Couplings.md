@@ -65,7 +65,7 @@ The Standard Model does not explain *why* the couplings have their particular va
 
 ## Connections
 
--[[Standard model of particle physics]]] — gauge couplings as parameters
+- [[Standard model of particle physics]] — gauge couplings as parameters
 - [[Gauge Symmetry]] — each coupling corresponds to a gauge group factor
 - [[The Lagrangian]] — couplings enter every interaction term
 - [[Strong Force]] — $\alpha_s$ and asymptotic freedom

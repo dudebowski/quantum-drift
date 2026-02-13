@@ -53,7 +53,7 @@ The strong force between quarks inside a nucleon is not the same as the force be
 
 ## Connections
 
-- [[[[Standard model of particle physics]] QCD as the $SU(3)_C$ sector
+- [[Standard model of particle physics]] — QCD as the $SU(3)_C$ sector
 - [[Gauge Symmetry]] — the $SU(3)_C$ gauge group
 - [[Quarks]] — the fundamental color-charged fermions
 - [[Gauge Bosons]] — the 8 gluons

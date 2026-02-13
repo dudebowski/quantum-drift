@@ -31,3 +31,10 @@ Juan Maldacena’s work is the standard modern realization of the **holographic 
 - In Maldacena’s setup, the statement “the universe is a hologram” means: all physical observables in the bulk gravitational theory can be encoded and computed in the boundary CFT, with no loss of information.
     
 - Whether our actual cosmos is described by some (as‑yet unknown) holographic dual is an open question; AdS/CFT is extremely well‑tested as a conjecture in its own regime, but extrapolating it to our universe is speculative.
+
+## Connections
+
+- [[Quantum gravity]] — holography as a quantum gravity framework
+- [[Extending  ΛCDM]] — Hertog's holographic quantum cosmology programme
+- [[Topics]] — deeper questions about holography and entanglement
+- [[2. Standard Model/Open Questions/Quantum Gravity|Quantum Gravity (Standard Model)]] — the search for quantum gravity from the SM side

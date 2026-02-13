@@ -61,4 +61,11 @@ Putting it together:
 - The **players** are fields, which are sections of various bundles over that manifold.
     
 - The **rules of interaction** (Lagrangians, equations of motion) tell you how the geometry affects the fields (e.g., curvature enters the equations) and, in turn, how the fields can back‑react on the geometry (like matter curves spacetime in GR).
-    
+
+## Connections
+
+- [[Some math]] — the mathematical tools for manifolds and geometry
+- [[Tensors]] — tensor fields on manifolds
+- [[FLRW Metric]] — a specific metric on a cosmological manifold
+- [[Gauge Symmetry]] — gauge fields as connections on principal bundles
+- [[Quantum Field Theory]] — fields as sections of bundles over spacetime

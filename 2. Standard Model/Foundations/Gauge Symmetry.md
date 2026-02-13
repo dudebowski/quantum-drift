@@ -56,7 +56,7 @@ For the mathematical background on Lie groups and algebras, see [[Some math|Mat
 
 ## Connections
 
--[[Standard model of particle physics]]] — gauge symmetry as a core assumption
+- [[Standard model of particle physics]] — gauge symmetry as a core assumption
 - [[The Lagrangian]] — built from gauge-invariant terms
 - [[Higgs Mechanism]] — breaks $SU(2)_L \times U(1)_Y \to U(1)_{\text{EM}}$
 - [[Gauge Bosons]] — the force carriers required by gauge invariance

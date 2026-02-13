@@ -58,3 +58,13 @@
 | Braneworld / extra‑dim models     | Reinterpret dark energy via geometry           | DGP‑type braneworlds, higher‑dimensional gravity effects                                                                   |
 | Alternative Big‑Bang histories    | Modify or replace hot Big Bang narrative       | Cold Big Bang, bouncing/cyclic universes, pre‑Big‑Bang phases                                                              |
 | Radical alternatives to expansion | Explain redshift without expanding universe    | Quasi‑steady state, plasma cosmology, static universes with tired‑light mechanisms                                         |
+
+## Connections
+
+- [[2. Standard Model/Open Questions/Quantum Gravity|Quantum Gravity (Standard Model)]] — quantum gravity as an open question
+- [[Dark Sector]] — the SM perspective on missing dark components
+- [[Neutrino Masses]] — seesaw mechanisms and sterile neutrinos
+- [[Hierarchy Problem]] — naturalness motivating SUSY and composite Higgs
+- [[Extending  ΛCDM]] — specific programmes extending ΛCDM
+- [[Beyond ΛCDM]] — the broader cosmological alternatives landscape
+- [[Nature of Dark Matter]] — dark matter candidates from BSM physics

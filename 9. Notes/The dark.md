@@ -22,4 +22,13 @@ Dark matter and dark energy both _involve_ quantum mechanics, but only dark ener
 
 - Alternatives model dark energy as a slowly rolling quantum scalar field (“quintessence”), again treated within quantum field theory on curved spacetime, with dynamics tuned to produce late‑time acceleration​.
     
-- Emergent or entropic gravity approaches try to derive both an effective cosmological constant and extra “dark” gravitational effects from underlying quantum or statistical properties of spacetime, potentially linking dark energy, dark matter, and quantum mechanics in a single framework, though these ideas are still speculative.​
+- Emergent or entropic gravity approaches try to derive both an effective cosmological constant and extra "dark" gravitational effects from underlying quantum or statistical properties of spacetime, potentially linking dark energy, dark matter, and quantum mechanics in a single framework, though these ideas are still speculative.​
+
+## Connections
+
+- [[Cold Dark Matter]] — the observational role of CDM in cosmology
+- [[Dark Energy]] — the cosmological constant component
+- [[Nature of Dark Matter]] — open questions about dark matter identity
+- [[Nature of Dark Energy]] — open questions about dark energy
+- [[Quantum Field Theory]] — zero-point energy and vacuum fluctuations
+- [[Extending  ΛCDM]] — Verlinde's emergent gravity as an alternative framework

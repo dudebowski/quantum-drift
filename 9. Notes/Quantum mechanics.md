@@ -20,3 +20,10 @@
 - **Wave–particle duality & double‑slit experiment**: How a single photon or electron produces an interference pattern over time.
 - **Quantization & the Schrödinger equation**: Discrete energy levels and the basic rule that tells a wavefunction how to evolve in time.
 - **Quantum information ideas**: Qubits, no‑cloning, quantum teleportation, and why entanglement + superposition give computational and cryptographic advantages.
+
+## Connections
+
+- [[Quantum Field Theory]] — QFT extends quantum mechanics to relativistic, variable-particle-number settings
+- [[Some math]] — linear algebra, Hilbert spaces, and functional analysis underlying QM
+- [[Spaces and fields]] — fields as the objects quantum theory describes
+- [[Topics]] — deeper questions in quantum foundations and interpretation
